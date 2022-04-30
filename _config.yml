@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Zako zako desu.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://trasque.github.io'
+url: 'https://trasque.github.io/?'
 
 github:
   username: trasque             # change to your github username
@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Trasque
-  email:              # change to your email address
+  email: coualjazz@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/trasque      # change to your twitter homepage
