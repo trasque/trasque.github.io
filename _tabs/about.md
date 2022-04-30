@@ -8,4 +8,4 @@ Zako desu.
 
 ## Works
 
-[個人でのお仕事](/posts/myworks/)
+[個人でのお仕事](/posts/myworks_writer/)
