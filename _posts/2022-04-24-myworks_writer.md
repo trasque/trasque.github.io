@@ -9,7 +9,7 @@ tags: [work, writer, reporter, game, gamespark, interview, review, column]
 
 | 媒体 | リンク | 概要 |
 ----|----
-| バーチャルライフマガジン | [『VRCボクシング大会』優勝者が<br>得た新たな人生の目標とは<br>～Vket2023Summer杯<br>ヒーローインタビュー～](https://vr-lifemagazine.com/vrcboxing-vket2023summercup-herointerview/) | VR文化を総合的に取り扱うWebメディア<br>であるバーチャルライフマガジンに参加して<br>最初に携わったライターとしての実績。<br>文面と誌面構成を担当した。 |
+| バーチャル<br>ライフ<br>マガジン | [『VRCボクシング大会』優勝者が<br>得た新たな人生の目標とは<br>～Vket2023Summer杯<br>ヒーローインタビュー～](https://vr-lifemagazine.com/vrcboxing-vket2023summercup-herointerview/) | VR文化を総合的に取り扱うWebメディア<br>であるバーチャルライフマガジンに参加して<br>最初に携わったライターとしての実績。<br>文面と誌面構成を担当した。 |
 | Game*Spark | [【ゲーム開発者長期同行取材】<br>密着・安田文彦―<br>『仁王2』完成までの軌跡と<br>『Bloodborne』山際眞晃対談](https://www.gamespark.jp/article/2020/03/13/97486.html) | コーエーテクモゲームス Team NINJA<br>が制作する『仁王2』のディレクター達を追い<br>長期による取材を実施。<br>ライターとして取材同行・原稿執筆。 |
 | Game*Spark | [【レビュー】<br>Game*Sparkレビュー：<br>『サイバーパンク2077』（PC）](https://www.gamespark.jp/article/2020/12/29/104967.html) | 媒体ではPS4版とPC版の2本立てで<br>レビューを掲載し、PC版を担当した。<br>多くのメディアによるレビュー記事が話題となる中、<br>視点を絞りつつ丁寧に書き上げられたと思う。 |
 | Game*Spark | [【コラム】<br>流行ったよね？フォトモード！<br>写真の基礎知識で手軽に<br>「それっぽく」しよう](https://www.gamespark.jp/article/2019/01/03/86419.html) | 年末年始企画で制作した特集。<br>実際のカメラで使える構図等の基礎知識を<br>フォトモードでも使おうという内容。 |
