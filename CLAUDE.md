@@ -46,7 +46,7 @@
 - `[Work, Writer]` … 仕事の実績
 
 タグ：`Diary`, `VRChat`, `School`, `IPA-AP`, `Study`, `Security`, `Quest3`, `Money`, `Win11`,
-`jekyll`, `github_pages`, `github_actions`, `ssg`, `chirpy`, `gadget`,
+`jekyll`, `github_pages`, `github_actions`, `ssg`, `chirpy`, `gadget`, `Claude`, `LLM`,
 `work`, `writer`, `reporter`, `game`, `gamespark`, `interview`, `review`, `column`
 
 最新の一覧は `_posts` の front matter を集計して確認すること。
