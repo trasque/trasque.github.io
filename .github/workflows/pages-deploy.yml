@@ -6,6 +6,7 @@ on:
     paths-ignore:
       - .gitignore
       - README.md
+      - CLAUDE.md
       - LICENSE
 
   # Allows you to run this workflow manually from the Actions tab
